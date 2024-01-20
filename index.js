@@ -105,3 +105,4 @@ function displayPlants(data) {
 
   divEl.innerHTML = plants;
 }
+
